@@ -1,0 +1,28 @@
+{
+  "name": "@la40/quasar-notify",
+  "version": "1.0.0",
+  "description": "Quasar notify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/la40/quasar-notify.git"
+  },
+  "keywords": [
+    "javascript",
+    "quasar",
+    "notify",
+    "notifications"
+  ],
+  "author": "Lachezar Grigorov <lachezar@grigorov.website>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/la40/quasar-notify/issues"
+  },
+  "homepage": "https://github.com/la40/quasar-notify#readme",
+  "peerDependencies": {
+    "quasar": "~2"
+  }
+}
